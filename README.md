@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the implementation of "Precedent-Enhanced Legal Judgment Prediction with LLM and Domain-Model Collaboration", published at EMNLP 2023.
-
+and project built on BNBChain!
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -76,7 +76,7 @@ Input: Fact description of a criminal case
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/PLJP.git
+git clone https://github.com/JudgeAgents/pljp-engine
 cd PLJP
 ```
 
@@ -331,7 +331,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com].
+For questions or issues, please open an issue on GitHub or contact [admin@judgeagents.io].
 
 ---
 
